@@ -99,9 +99,9 @@
 } */
 
 /* ===DESCRIPTION */
-.description {
+/* .description {
   padding: 120px 0;
-}
+} */
 
 /* .visually-hidden {
   position: absolute;
@@ -116,21 +116,21 @@
   overflow: hidden;
 } */
 
-.description-title {
+/* .description-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  /* letter-spacing: 0.02em; */
-  /* color: #2e2f42; */
-  /* margin-bottom: 8px; */
-}
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+} */
 
-.description-list {
-  /* display: flex; */
+/* .description-list {
+  display: flex;
   gap: 24px;
-}
+} */
 
-.deskr-box {
+/* .deskr-box {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -139,27 +139,27 @@
   border-radius: 4px;
   background-color: #f4f4fd;
   margin-bottom: 8px;
-}
+} */
 
-.description-list-item {
+/* .description-list-item {
   width: calc((100% - 72px) / 4);
-}
+} */
 
-.description-text {
+/* .description-text {
   font-weight: ;
-  /* font-size: 16px;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455; */
-}
+  color: #434455;
+} */
 
 /* ===TEAM=== */
-.team {
+/* .team {
   background: #f4f4fd;
   padding: 120px 0;
-}
+} */
 
-.team-title {
+/* .team-title {
   text-transform: capitalize;
   font-size: 36px;
   line-height: 1.11;
@@ -167,26 +167,26 @@
   text-align: center;
   color: #2e2f42;
   margin-bottom: 72px;
-}
+} */
 
-.team-list {
+/* .team-list {
   display: flex;
   gap: 24px;
-}
+} */
 
-.team-list-item {
+/* .team-list-item {
   color: #2e2f42;
-  background: #fff;
-  width: calc((100% - 72px) / 4);
-  border-radius: 0px 0px 4px 4px;
+  background: #fff; */
+/* width: calc((100% - 72px) / 4); */
+/* border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-}
+} */
 
 .team-list-img {
 }
 
-.team-list-subtitle {
+/* .team-list-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -194,16 +194,16 @@
   text-align: center;
   color: #2e2f42;
   margin-bottom: 8px;
-}
+} */
 
-.team-list-text {
+/* .team-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
   margin-bottom: 8px;
-}
+} */
 
 /* можливо знадобиться.social-media-list {
   display: flex;
